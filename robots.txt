@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arinbeauty.at/sitemap-index.xml
+Sitemap: https://sipanbeauty.at/sitemap-index.xml
