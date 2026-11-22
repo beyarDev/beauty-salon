@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arinbeauty.at/sitemap-index.xml
